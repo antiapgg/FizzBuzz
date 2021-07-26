@@ -1,4 +1,4 @@
-import { FizzBuzz } from '../src/fizzBuzz';
+import { FizzBuzz } from '../src/FizzBuzz';
 
 describe('FizzBuzz', (): void => {
     let sut: FizzBuzz;
